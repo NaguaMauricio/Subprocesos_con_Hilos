@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">SampleRoom</string>
+
+    <string name="message_dialog">"Confirm dialog"</string>
+    <string name="message_delete_question">"Do you want to delete record?"</string>
+    <string name="message_yes">"Yes"</string>
+    <string name="message_no">"No"</string>
+    <string name="message_delete">"Delete"</string>
+    <string name="message_cancel">"Canceled!"</string>
+    <string name="message_error">"Error!"</string>
+</resources>
